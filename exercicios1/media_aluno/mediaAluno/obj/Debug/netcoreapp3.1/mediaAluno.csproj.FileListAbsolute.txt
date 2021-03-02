@@ -1,0 +1,12 @@
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\bin\Debug\netcoreapp3.1\mediaAluno.exe
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\bin\Debug\netcoreapp3.1\mediaAluno.deps.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\bin\Debug\netcoreapp3.1\mediaAluno.runtimeconfig.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\bin\Debug\netcoreapp3.1\mediaAluno.runtimeconfig.dev.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\bin\Debug\netcoreapp3.1\mediaAluno.dll
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\bin\Debug\netcoreapp3.1\mediaAluno.pdb
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\obj\Debug\netcoreapp3.1\mediaAluno.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\obj\Debug\netcoreapp3.1\mediaAluno.AssemblyInfo.cs
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\obj\Debug\netcoreapp3.1\mediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\obj\Debug\netcoreapp3.1\mediaAluno.dll
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\obj\Debug\netcoreapp3.1\mediaAluno.pdb
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios1\media_aluno\mediaAluno\obj\Debug\netcoreapp3.1\mediaAluno.genruntimeconfig.cache
