@@ -1,0 +1,13 @@
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\bin\Debug\netcoreapp3.1\id_cliente.exe
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\bin\Debug\netcoreapp3.1\id_cliente.deps.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\bin\Debug\netcoreapp3.1\id_cliente.runtimeconfig.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\bin\Debug\netcoreapp3.1\id_cliente.runtimeconfig.dev.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\bin\Debug\netcoreapp3.1\id_cliente.dll
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\bin\Debug\netcoreapp3.1\id_cliente.pdb
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\obj\Debug\netcoreapp3.1\id_cliente.csprojAssemblyReference.cache
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\obj\Debug\netcoreapp3.1\id_cliente.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\obj\Debug\netcoreapp3.1\id_cliente.AssemblyInfo.cs
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\obj\Debug\netcoreapp3.1\id_cliente.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\obj\Debug\netcoreapp3.1\id_cliente.dll
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\obj\Debug\netcoreapp3.1\id_cliente.pdb
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\id_cliente\id_cliente\obj\Debug\netcoreapp3.1\id_cliente.genruntimeconfig.cache

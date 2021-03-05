@@ -1,0 +1,12 @@
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\bin\Debug\netcoreapp3.1\inverter_lista.exe
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\bin\Debug\netcoreapp3.1\inverter_lista.deps.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\bin\Debug\netcoreapp3.1\inverter_lista.runtimeconfig.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\bin\Debug\netcoreapp3.1\inverter_lista.runtimeconfig.dev.json
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\bin\Debug\netcoreapp3.1\inverter_lista.dll
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\bin\Debug\netcoreapp3.1\inverter_lista.pdb
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\obj\Debug\netcoreapp3.1\inverter_lista.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\obj\Debug\netcoreapp3.1\inverter_lista.AssemblyInfo.cs
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\obj\Debug\netcoreapp3.1\inverter_lista.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\obj\Debug\netcoreapp3.1\inverter_lista.dll
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\obj\Debug\netcoreapp3.1\inverter_lista.pdb
+C:\Users\pichau\Documents\Faculdade\Stallos_C#\exercicios2\inverter_lista\inverter_lista\inverter_lista\obj\Debug\netcoreapp3.1\inverter_lista.genruntimeconfig.cache
